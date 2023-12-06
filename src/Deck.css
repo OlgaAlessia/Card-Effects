@@ -1,0 +1,17 @@
+.Deck {
+    margin-top: 100px;
+}
+
+.Deck-btn{
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    padding: 15px 10px;
+    border: none;
+    margin: 0 10px;
+}
+
+.Deck-btn:hover{
+    cursor: pointer;
+    background-color: gray;
+}
